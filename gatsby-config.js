@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Learning in Public`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `cyyeh`,
+      summary: `who is an ordinary mind always passionately learning from extraordinary minds.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `An ordinary mind who is always passionately learning from extraordinary minds.`,
+    siteUrl: `https://cyyeh.github.io/`,
     social: {
-      twitter: `kylemathews`,
+      instagram: `chihyu.yeh`,
     },
   },
   plugins: [

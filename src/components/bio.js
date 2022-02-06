@@ -19,7 +19,7 @@ const Bio = () => {
             summary
           }
           social {
-            twitter
+            instagram
           }
         }
       }
@@ -36,7 +36,7 @@ const Bio = () => {
         className="bio-avatar"
         layout="fixed"
         formats={["auto", "webp", "avif"]}
-        src="../images/profile-pic.png"
+        src="../images/profile-pic.jpg"
         width={50}
         height={50}
         quality={95}
@@ -46,9 +46,13 @@ const Bio = () => {
         <p>
           Written by <strong>{author.name}</strong> {author?.summary || null}
           {` `}
-          <a href={`https://twitter.com/${social?.twitter || ``}`}>
-            You should follow them on Twitter
-          </a>
+          {
+            social?.instagram && (
+              <a href={`https://www.instagram.com/${social.instagram}`}>
+                You should follow him on Instagram
+              </a>
+            )
+          }
         </p>
       )}
     </div>
