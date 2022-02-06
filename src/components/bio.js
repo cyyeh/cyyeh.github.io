@@ -19,7 +19,7 @@ const Bio = () => {
             summary
           }
           social {
-            instagram
+            linktree
           }
         }
       }
@@ -47,9 +47,9 @@ const Bio = () => {
           Written by <strong>{author.name}</strong> {author?.summary || null}
           {` `}
           {
-            social?.instagram && (
-              <a href={`https://www.instagram.com/${social.instagram}`}>
-                You should follow him on Instagram
+            social?.linktree && (
+              <a href={`https://linktr.ee/${social.linktree}`}>
+                You can know more about him here
               </a>
             )
           }

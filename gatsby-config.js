@@ -8,7 +8,7 @@ module.exports = {
     description: `An ordinary mind who is always passionately learning from extraordinary minds.`,
     siteUrl: `https://cyyeh.github.io/`,
     social: {
-      instagram: `chihyu.yeh`,
+      linktree: `cyyeh`,
     },
   },
   plugins: [
