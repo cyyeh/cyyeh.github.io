@@ -1,7 +1,7 @@
 ---
 title: Hello World
 date: "2022-02-07"
-description: "Hello World"
+description: "A simple markdown syntax tutorial"
 ---
 
 This is my first post on my new fake blog! How exciting!
