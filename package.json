@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "learning-in-public",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
+  "description": "personal blog",
   "version": "0.1.0",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "bugs": {
@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "gatsby": "^4.6.2",
+    "gatsby-plugin-disqus": "^1.2.3",
     "gatsby-plugin-feed": "^4.6.0",
     "gatsby-plugin-gatsby-cloud": "^4.6.0",
     "gatsby-plugin-google-analytics": "^4.6.0",

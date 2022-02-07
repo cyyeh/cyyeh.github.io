@@ -1,5 +1,6 @@
 import * as React from "react"
 import { Link, graphql } from "gatsby"
+import { Disqus } from "gatsby-plugin-disqus"
 
 import Bio from "../components/bio"
 import Layout from "../components/layout"
@@ -9,6 +10,14 @@ const BlogPostTemplate = ({ data, location }) => {
   const post = data.markdownRemark
   const siteTitle = data.site.siteMetadata?.title || `Title`
   const { previous, next } = data
+  const disqusConfig = {
+    /* Replace PAGE_URL with your post's canonical URL variable */
+    url: `https://cyyeh.github.io${location.pathname}`,
+    /* Replace PAGE_IDENTIFIER with your page's unique identifier variable */
+    identifier: `${post.id}`,
+    /* Replace PAGE_TITLE with the title of the page */
+    title: `${post.frontmatter.title}`,
+  }
 
   return (
     <Layout location={location} title={siteTitle}>
@@ -33,6 +42,7 @@ const BlogPostTemplate = ({ data, location }) => {
         <footer>
           <Bio />
         </footer>
+        <Disqus config={disqusConfig} />
       </article>
       <nav className="blog-post-nav">
         <ul
