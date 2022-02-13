@@ -49,5 +49,20 @@ This list should be a living document that fulfills my incomplete arguments, and
   12. promises and async/await
 </details>
 
+<details>
+  <summary>Art of Abstraction</summary>
+
+  https://www.merrickchristensen.com/articles/abstraction/
+
+  **Abstraction**
+
+  Dealing with complexity is one of the most important topics in the field of computer science. 
+  Abstraction can be said the most important technique for managing complexity. You can even said that 
+  all computer systems are made of layers of abstraction from hardware to software. This article mainly 
+  discusses abstraction in software people's point of view. Having a good conceptual model towards
+  different levels of abstraction helps you have more clear strategies on dealing with ongoing software development challenges. This article also references some interesting articles worth reading. In short, [avoid hasty abstractions](https://kentcdodds.com/blog/aha-programming) and [having no abstraction is better than having wrong abstractions](https://youtu.be/4anAwXYqLG8?t=802).
+</details>
+
+
 <br />
 <br />
