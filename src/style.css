@@ -332,10 +332,6 @@ a:focus {
   }
 }
 
-.pinned > article {
-  margin-top: 0px;
-}
-
 .pinned-icon {
   margin-right: 10px;
   font-size: 24px;

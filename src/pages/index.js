@@ -12,7 +12,7 @@ const BlogIndex = ({ data, location }) => {
   const pinned = data.allMarkdownRemark.nodes.filter(post => post.frontmatter.pin)
   const posts = (
     pinned.length ?
-    [pinned[0], ...data.allMarkdownRemark.nodes.filter(post => !post.frontmatter.pin)] :
+    [...pinned, ...data.allMarkdownRemark.nodes.filter(post => !post.frontmatter.pin)] :
     data.allMarkdownRemark.nodes
   )
 
