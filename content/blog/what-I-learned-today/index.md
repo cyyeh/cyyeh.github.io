@@ -33,7 +33,7 @@ This list should be a living document that fulfills my incomplete arguments, and
   you can also "write" HTML using JavaScript such as [JSX](https://reactjs.org/docs/introducing-jsx.html) and CSS using JavaScript such as [styled-components](https://styled-components.com/). 
   This blog post is a collection of key JavaScript concepts you should be familiar with if you would like to develop modern Javascript applications.
 
-  **Key takeaways**
+  **Key Takeaways**
 
   1. template literals
   2. shorthand property names
