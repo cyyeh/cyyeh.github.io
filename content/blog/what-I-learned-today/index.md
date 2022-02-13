@@ -63,6 +63,15 @@ This list should be a living document that fulfills my incomplete arguments, and
   different levels of abstraction helps you have more clear strategies on dealing with ongoing software development challenges. This article also references some interesting articles worth reading. In short, [avoid hasty abstractions](https://kentcdodds.com/blog/aha-programming) and [having no abstraction is better than having wrong abstractions](https://youtu.be/4anAwXYqLG8?t=802).
 </details>
 
+<details>
+  <summary>One React mistake that's slowing you down</summary>
+
+  https://epicreact.dev/one-react-mistake-thats-slowing-you-down/
+
+  **Abstract**
+
+  This article concisely gives a good usage of composition capabilities provided by React. With proper layout provided, we may even don't need more complex tools to solve the [prop drilling](https://kentcdodds.com/blog/prop-drilling) issue, instead we can avoid the issue from coming up first!
+</details>
 
 <br />
 <br />
