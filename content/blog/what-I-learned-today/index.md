@@ -1,7 +1,7 @@
 ---
 title: What I learned today
 date: "2022-02-13"
-description: "A list recording what I learn everyday!"
+description: "A living list recording what I learn everyday!"
 pin: true
 ---
 
