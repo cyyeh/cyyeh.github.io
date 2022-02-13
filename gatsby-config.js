@@ -3,7 +3,7 @@ module.exports = {
     title: `Learning in Public`,
     author: {
       name: `cyyeh`,
-      summary: `who is an ordinary mind always passionately learning from extraordinary minds.`,
+      summary: `, an ordinary mind who is always passionately learning from extraordinary minds.`,
     },
     description: `An ordinary mind who is always passionately learning from extraordinary minds.`,
     siteUrl: `https://cyyeh.github.io/`,

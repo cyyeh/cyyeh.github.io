@@ -44,12 +44,12 @@ const Bio = () => {
       />
       {author?.name && (
         <p>
-          Written by <strong>{author.name}</strong> {author?.summary || null}
+          Written by <strong>{author.name}</strong>{author?.summary || null}
           {` `}
           {
             social?.linktree && (
               <a href={`https://linktr.ee/${social.linktree}`}>
-                You can know more about him here
+              You can know more about him here!
               </a>
             )
           }
