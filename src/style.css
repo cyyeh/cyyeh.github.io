@@ -347,3 +347,7 @@ section[itemprop="articleBody"] p {
 summary {
   cursor: pointer;
 }
+
+a[name="fragment"] {
+  color: var(--color-primary);
+}
