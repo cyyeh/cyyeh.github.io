@@ -70,7 +70,7 @@ This list should be a living document that fulfills my incomplete arguments, and
 
   **Abstract**
 
-  This article concisely gives a good usage of composition capabilities provided by React. With proper layout provided, we may even don't need more complex tools to solve the [prop drilling](https://kentcdodds.com/blog/prop-drilling) issue, instead we can avoid the issue from coming up first!
+  This article concisely gives a good usage of composition capabilities provided by React. With proper layout provided, we may even don't need more complex tools such as [Context APIs](https://zh-hant.reactjs.org/docs/context.html) and [Redux](https://redux.js.org/),etc. to solve the [prop drilling](https://kentcdodds.com/blog/prop-drilling) issue, instead we can avoid the issue from coming up first!
 </details>
 
 <br />
