@@ -1,5 +1,7 @@
 import * as React from "react"
 import { Link, graphql } from "gatsby"
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
+import { faThumbtack } from '@fortawesome/free-solid-svg-icons'
 
 import Bio from "../components/bio"
 import Layout from "../components/layout"
@@ -7,7 +9,12 @@ import Seo from "../components/seo"
 
 const BlogIndex = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata?.title || `Title`
-  const posts = data.allMarkdownRemark.nodes
+  const pinned = data.allMarkdownRemark.nodes.filter(post => post.frontmatter.pin)
+  const posts = (
+    pinned.length ?
+    [pinned[0], ...data.allMarkdownRemark.nodes.filter(post => !post.frontmatter.pin)] :
+    data.allMarkdownRemark.nodes
+  )
 
   if (posts.length === 0) {
     return (
@@ -32,7 +39,7 @@ const BlogIndex = ({ data, location }) => {
           const title = post.frontmatter.title || post.fields.slug
 
           return (
-            <li key={post.fields.slug}>
+            <li key={post.fields.slug} className={post.frontmatter.pin ? 'pinned' : ''}>
               <article
                 className="post-list-item"
                 itemScope
@@ -40,6 +47,12 @@ const BlogIndex = ({ data, location }) => {
               >
                 <header>
                   <h2>
+                    {
+                      post.frontmatter.pin &&
+                      <span className="pinned-icon">
+                        <FontAwesomeIcon icon={faThumbtack} />
+                      </span>
+                    }
                     <Link to={post.fields.slug} itemProp="url">
                       <span itemProp="headline">{title}</span>
                     </Link>
@@ -82,6 +95,7 @@ export const pageQuery = graphql`
           date(formatString: "MMMM DD, YYYY")
           title
           description
+          pin
         }
       }
     }

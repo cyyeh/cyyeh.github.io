@@ -134,5 +134,6 @@ module.exports = {
         shortname: `learning-in-public`
       }
     },
+    `gatsby-plugin-fontawesome-css`
   ],
 }

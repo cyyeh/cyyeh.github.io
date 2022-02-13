@@ -331,3 +331,13 @@ a:focus {
     list-style-position: inside;
   }
 }
+
+.pinned > article {
+  margin-top: 0px;
+}
+
+.pinned-icon {
+  margin-right: 10px;
+  font-size: 24px;
+  color: orange;
+}
