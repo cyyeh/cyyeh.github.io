@@ -26,14 +26,14 @@ This list should be a living document that fulfills my incomplete arguments, and
 
   https://kentcdodds.com/blog/javascript-to-know-for-react
 
-  Abstract
+  **Abstract**
 
   Modern frontend frameworks such as React use JavaScript a lot. 
   Not only you can write application logic using JavaScript, 
   you can also "write" HTML using JavaScript such as [JSX](https://reactjs.org/docs/introducing-jsx.html) and CSS using JavaScript such as [styled-components](https://styled-components.com/). 
   This blog post is a collection of key JavaScript concepts you should be familiar with if you would like to develop modern Javascript applications.
 
-  Key takeaways
+  **Key takeaways**
 
   1. template literals
   2. shorthand property names
