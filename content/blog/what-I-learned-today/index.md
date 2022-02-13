@@ -1,5 +1,5 @@
 ---
-title: See what I learn today
+title: What I learned today
 date: "2022-02-13"
 description: "A list recording what I learn everyday!"
 pin: true
