@@ -5,7 +5,7 @@ description: "A list recording what I learn everyday!"
 pin: true
 ---
 
-### What this post is about?
+## What this post is about?
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/JIceCvZS-4Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -13,6 +13,39 @@ I believe that achievement only comes from deliberate and consistent hard work b
 
 This list should be a living document that fulfills my incomplete arguments, and I'll try my best to keep it up to date and improve the proves along my lifelong journey.
 
-### The list
+## The list
 
 ...to be continued
+
+##### 2022-02-13
+
+<details>
+  <summary>JavaScript to Know for React</summary>
+
+  https://kentcdodds.com/blog/javascript-to-know-for-react
+
+  Abstract
+
+  Modern frontend framework such as React uses JavaScript a lot. 
+  Not only you can write application logic using JavaScript, 
+  you can also "write" HTML using JavaScript (such as [JSX](https://reactjs.org/docs/introducing-jsx.html)) and CSS using JavaScript (such as [styled-components](https://styled-components.com/)). 
+  This blog post is a collection of key JavaScript concepts you should be familiar with if you would like to develop modern Javascript applications.
+
+  Key takeaways
+
+  1. template literals
+  2. shorthand property names
+  3. arrow functions
+  4. destructuring
+  5. parameter defaults
+  6. rest/spread
+  7. ESModules
+  8. ternaries
+  9. array methods
+  10. nullish coalescing operator
+  11. optional chaining
+  12. promises and async/await
+</details>
+
+<br />
+<br />

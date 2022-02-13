@@ -342,3 +342,7 @@ section[itemprop="articleBody"] p {
   font-size: 18px;
   line-height: 2.5rem;
 }
+
+summary {
+  cursor: pointer;
+}
