@@ -17,7 +17,9 @@ This list should be a living document that fulfills my incomplete arguments, and
 
 ...to be continued
 
-##### 2022-02-13
+<div id="2022-02-13"></div>
+
+##### <a href="#2022-02-13">2022-02-13</a>
 
 <details>
   <summary>JavaScript to Know for React</summary>
