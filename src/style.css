@@ -353,6 +353,10 @@ details {
   margin-bottom: 20px;
 }
 
+details li {
+  font-size: 18px;
+}
+
 a[name="fragment"] {
   color: var(--color-primary);
 }

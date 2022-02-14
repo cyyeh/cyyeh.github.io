@@ -27,7 +27,7 @@ This list should be a living document that fulfills my incomplete arguments, and
 
   https://flexboxfroggy.com/
 
-  Abstract
+  **Abstract**
 
   A website that teaches you CSS Flexbox by playing games. You'll learn these concepts:
   `display: flex;`, `justify-content`, `align-items`, `flex-direction`, `order`, `align-self`, `flex-wrap`,
@@ -40,7 +40,7 @@ This list should be a living document that fulfills my incomplete arguments, and
 
   https://codepip.com/games/grid-garden/
 
-  Abstract
+  **Abstract**
 
   A website that teaches you CSS Grid Layout by playing games. You'll learn these concepts:
   `display: grid;`, `grid-template`, `grid-template-columns`, `grid-template-rows`, `grid-column-start`, `grid-column-end`, `grid-row-start`, `grid-row-end`, `grid-column`, `grid-row`. Grid is a powerful technique for positioning elements based on two dimensional layout.
