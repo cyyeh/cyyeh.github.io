@@ -3,6 +3,7 @@ title: What I learned today
 date: "2022-02-13"
 description: "A living list recording what I learn everyday!"
 pin: true
+draft: false
 ---
 
 ## What this post is about?

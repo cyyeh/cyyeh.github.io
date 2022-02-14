@@ -9,11 +9,15 @@ import Seo from "../components/seo"
 
 const BlogIndex = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata?.title || `Title`
-  const pinned = data.allMarkdownRemark.nodes.filter(post => post.frontmatter.pin)
+  const readyToViewPosts = data.allMarkdownRemark.nodes.filter(
+    post => process.env.NODE_ENV === 'development' || 
+    (!post.frontmatter.draft && process.env.NODE_ENV === 'production')
+  )
+  const pinned = readyToViewPosts.filter(post => post.frontmatter.pin)
   const posts = (
     pinned.length ?
-    [...pinned, ...data.allMarkdownRemark.nodes.filter(post => !post.frontmatter.pin)] :
-    data.allMarkdownRemark.nodes
+    [...pinned, ...readyToViewPosts.filter(post => !post.frontmatter.pin)] :
+    readyToViewPosts
   )
 
   if (posts.length === 0) {
@@ -96,6 +100,7 @@ export const pageQuery = graphql`
           title
           description
           pin
+          draft
         }
       }
     }

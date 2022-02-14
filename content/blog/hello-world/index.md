@@ -3,6 +3,7 @@ title: Hello World
 date: "2022-02-07"
 description: "A simple markdown syntax tutorial"
 pin: false
+draft: false
 ---
 
 This is my first post on my new fake blog! How exciting!
