@@ -17,6 +17,34 @@ This list should be a living document that fulfills my incomplete arguments, and
 
 ...to be continued
 
+<div id="2022-02-14"></div>
+
+##### <a href="#2022-02-14" name="fragment">2022-02-14</a>
+
+<details>
+  <summary>Flexbox Froggy</summary>
+
+  https://flexboxfroggy.com/
+
+  Abstract
+
+  A website that teaches you CSS Flexbox by playing games. You'll learn these concepts:
+  `display: flex;`, `justify-content`, `align-items`, `flex-direction`, `order`, `align-self`, `flex-wrap`,
+  `flex-flow`, `align-content`. Flexbox is a powerful technique for positioning elements based on
+  one dimensional layout such as row or column.
+</details>
+
+<details>
+  <summary>Grid Garden</summary>
+
+  https://codepip.com/games/grid-garden/
+
+  Abstract
+
+  A website that teaches you CSS Grid Layout by playing games. You'll learn these concepts:
+  `display: grid;`, `grid-template`, `grid-template-columns`, `grid-template-rows`, `grid-column-start`, `grid-column-end`, `grid-row-start`, `grid-row-end`, `grid-column`, `grid-row`. Grid is a powerful technique for positioning elements based on two dimensional layout.
+</details>
+
 <div id="2022-02-13"></div>
 
 ##### <a href="#2022-02-13" name="fragment">2022-02-13</a>
