@@ -27,8 +27,6 @@ This list should be a living document that fulfills my incomplete arguments, and
 
   https://flexboxfroggy.com/
 
-  **Abstract**
-
   A website that teaches you CSS Flexbox by playing games. You'll learn these concepts:
   `display: flex;`, `justify-content`, `align-items`, `flex-direction`, `order`, `align-self`, `flex-wrap`,
   `flex-flow`, `align-content`. Flexbox is a powerful technique for positioning elements based on
@@ -39,8 +37,6 @@ This list should be a living document that fulfills my incomplete arguments, and
   <summary>Grid Garden</summary>
 
   https://codepip.com/games/grid-garden/
-
-  **Abstract**
 
   A website that teaches you CSS Grid Layout by playing games. You'll learn these concepts:
   `display: grid;`, `grid-template`, `grid-template-columns`, `grid-template-rows`, `grid-column-start`, `grid-column-end`, `grid-row-start`, `grid-row-end`, `grid-column`, `grid-row`. Grid is a powerful technique for positioning elements based on two dimensional layout.
@@ -54,8 +50,6 @@ This list should be a living document that fulfills my incomplete arguments, and
   <summary>JavaScript to Know for React</summary>
 
   https://kentcdodds.com/blog/javascript-to-know-for-react
-
-  **Abstract**
 
   Modern frontend frameworks such as React use JavaScript a lot. 
   Not only you can write application logic using JavaScript, 
@@ -83,8 +77,6 @@ This list should be a living document that fulfills my incomplete arguments, and
 
   https://www.merrickchristensen.com/articles/abstraction/
 
-  **Abstract**
-
   Dealing with complexity is one of the most important topics in the field of computer science. 
   Abstraction can be said the most important technique for managing complexity. You can even said that 
   all computer systems are made of layers of abstraction from hardware to software. This article mainly 
@@ -96,8 +88,6 @@ This list should be a living document that fulfills my incomplete arguments, and
   <summary>One React mistake that's slowing you down</summary>
 
   https://epicreact.dev/one-react-mistake-thats-slowing-you-down/
-
-  **Abstract**
 
   This article concisely gives a good usage of composition capabilities provided by React. With proper layout provided, we may even don't need more complex tools such as [Context APIs](https://zh-hant.reactjs.org/docs/context.html) and [Redux](https://redux.js.org/),etc. to solve the [prop drilling](https://kentcdodds.com/blog/prop-drilling) issue, instead we can avoid the issue from coming up first!
 </details>
