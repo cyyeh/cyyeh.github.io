@@ -53,7 +53,7 @@ This list should be a living document that fulfills my incomplete arguments, and
 
   https://developers.google.com/web/updates/2018/09/inside-browser-part1
 
-  There are 4 parts in the series of [understanding how a modern web browser works](https://twitter.com/addyosmani/status/1492398000500404227?s=20&t=r5KzKDO_TPmaZqBgdrt09g), especially Chrome. This is the first part, which mainly covers the high-level view of browser architecture. Most modern applications including web browsers run on top of an operating system, and beneath the operating system is the hardware such as CPU, GPU, RAM, etc. In the context of where programs run inside the computer, it's the implementation details of the programs. There are two main different ways for how a web browser is built, one is multiple threads inside the same process, and the other is multiple processes where each process may have more than one thread. Chrome takes the latter approach, and its recent architecture is described in the diagram below. You can also learn the benefits of taking multi-process architecture approach in the article and some techniques Chrome use to have better [web security](https://developers.google.com/web/updates/2018/09/inside-browser-part1#site-isolation) and [performance](https://developers.google.com/web/updates/2018/09/inside-browser-part1#saving_more_memory_-_servicification_in_chrome).
+  There are 4 parts in the series of [understanding how a modern web browser works](https://twitter.com/addyosmani/status/1492398000500404227?s=20&t=r5KzKDO_TPmaZqBgdrt09g), especially Chrome. This is the first part, which mainly covers the high-level view of browser architecture. Modern applications including web browsers run on top of an operating system, and beneath the operating system is the hardware such as CPU, GPU, RAM, etc. In the context of where programs run inside computers, it's the implementation details of the programs. There are two main different ways of how a web browser is built, one is multiple threads inside the same process, and the other is multiple processes where each process may have more than one thread. Chrome takes the latter approach, and its recent architecture is described in the diagram below. You can also learn the benefits of taking multi-process architecture approach in the article and some techniques Chrome use to have better [web security](https://developers.google.com/web/updates/2018/09/inside-browser-part1#site-isolation) and [performance](https://developers.google.com/web/updates/2018/09/inside-browser-part1#saving_more_memory_-_servicification_in_chrome).
 
   ![chrome architecture](https://developers.google.com/web/updates/images/inside-browser/part1/browser-arch2.png)
   *Diagram of Chrome’s multi-process architecture. Multiple layers are shown under Renderer Process to represent Chrome running multiple Renderer Processes for each tab*
@@ -66,6 +66,14 @@ This list should be a living document that fulfills my incomplete arguments, and
 
   There are 4 parts in the series of [understanding how a modern web browser works](https://twitter.com/addyosmani/status/1492398000500404227?s=20&t=r5KzKDO_TPmaZqBgdrt09g), especially Chrome. This is the second part, which uses the scenario of navigation to illustrate how different processes and threads communicate with each other in order to display a website. In case you have used [Service Worker](https://developers.google.com/web/fundamentals/primers/service-workers) before, you will know it runs inside a renderer process and understand how it fits to the communication mechanism among different processes and threads here.
 </details>
+
+<!-- <details>
+  <summary>Inside look at modern web browser (part 3)</summary>
+
+  https://developers.google.com/web/updates/2018/09/inside-browser-part3
+
+  There are 4 parts in the series of [understanding how a modern web browser works](https://twitter.com/addyosmani/status/1492398000500404227?s=20&t=r5KzKDO_TPmaZqBgdrt09g), especially Chrome. This is the third part,
+</details> -->
 
 <div id="2022-02-14"></div>
 
