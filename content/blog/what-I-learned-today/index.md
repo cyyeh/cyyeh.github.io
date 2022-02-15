@@ -1,7 +1,7 @@
 ---
 title: What I learned today
-date: "2022-02-13"
-description: "A living list recording what I learn everyday!"
+date: 2022-02-13
+description: A living list recording what I learn everyday!
 pin: true
 draft: false
 ---
@@ -74,6 +74,14 @@ This list should be a living document that fulfills my incomplete arguments, and
 
   There are 4 parts in the series of [understanding how a modern web browser works](https://twitter.com/addyosmani/status/1492398000500404227?s=20&t=r5KzKDO_TPmaZqBgdrt09g), especially Chrome. This is the third part,
 </details> -->
+
+<details>
+  <summary>CSS Versus JavaScript Animations</summary>
+
+  https://developers.google.com/web/fundamentals/design-and-ux/animations/css-vs-javascript
+
+  This article briefly illustrates some heuristics on whether to use CSS or JavaScript for web animations. In short, CSS uses declarative ways to define animations and it's suitable for easy scenario; while JavaScript uses imperative ways, and it can enable more complex animations.
+</details>
 
 <div id="2022-02-14"></div>
 
