@@ -67,20 +67,12 @@ This list should be a living document that fulfills my incomplete arguments, and
   There are 4 parts in the series of [understanding how a modern web browser works](https://twitter.com/addyosmani/status/1492398000500404227?s=20&t=r5KzKDO_TPmaZqBgdrt09g), especially Chrome. This is the second part, which uses the scenario of navigation to illustrate how different processes and threads communicate with each other in order to display a website. In case you have used [Service Worker](https://developers.google.com/web/fundamentals/primers/service-workers) before, you will know it runs inside a renderer process and understand how it fits to the communication mechanism among different processes and threads here.
 </details>
 
-<!-- <details>
-  <summary>Inside look at modern web browser (part 3)</summary>
-
-  https://developers.google.com/web/updates/2018/09/inside-browser-part3
-
-  There are 4 parts in the series of [understanding how a modern web browser works](https://twitter.com/addyosmani/status/1492398000500404227?s=20&t=r5KzKDO_TPmaZqBgdrt09g), especially Chrome. This is the third part,
-</details> -->
-
 <details>
   <summary>CSS Versus JavaScript Animations</summary>
 
   https://developers.google.com/web/fundamentals/design-and-ux/animations/css-vs-javascript
 
-  This article briefly illustrates some heuristics on whether to use CSS or JavaScript for web animations. In short, CSS uses declarative ways to define animations and it's suitable for easier scenarios; while JavaScript uses imperative ways, and it can enable more complex animations.
+  This article briefly illustrates some heuristics on whether to choose CSS or JavaScript for web animations. In short, CSS uses declarative ways to define animations and it's suitable for easier scenarios; while JavaScript uses imperative ways, and it can enable more complex animations.
 </details>
 
 <div id="2022-02-14"></div>
