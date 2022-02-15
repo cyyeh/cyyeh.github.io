@@ -82,15 +82,19 @@ module.exports = {
         feeds: [
           {
             serialize: ({ query: { site, allMarkdownRemark } }) => {
-              return allMarkdownRemark.nodes.map(node => {
-                return Object.assign({}, node.frontmatter, {
-                  description: node.excerpt,
-                  date: node.frontmatter.date,
-                  url: site.siteMetadata.siteUrl + node.fields.slug,
-                  guid: site.siteMetadata.siteUrl + node.fields.slug,
-                  custom_elements: [{ "content:encoded": node.html }],
-                })
-              })
+              return (
+                allMarkdownRemark.nodes
+                  .filter(node => !node.frontmatter.draft)
+                  .map(node => {
+                    return Object.assign({}, node.frontmatter, {
+                      description: node.excerpt,
+                      date: node.frontmatter.date,
+                      url: site.siteMetadata.siteUrl + node.fields.slug,
+                      guid: site.siteMetadata.siteUrl + node.fields.slug,
+                      custom_elements: [{ "content:encoded": node.html }],
+                    })
+                  })
+              )
             },
             query: `
               {
@@ -106,6 +110,7 @@ module.exports = {
                     frontmatter {
                       title
                       date
+                      draft
                     }
                   }
                 }
