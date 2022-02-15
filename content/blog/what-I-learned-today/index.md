@@ -18,6 +18,37 @@ This list should be a living document that fulfills my incomplete arguments, and
 
 ...to be continued
 
+<div id="2022-02-15"></div>
+
+##### <a href="#2022-02-15" name="fragment">2022-02-15</a>
+
+<details>
+  <summary>Kyle Simpson Presents: Code is for Humans</summary>
+
+  https://frontendmasters.com/teachers/kyle-simpson/code-is-for-humans/
+
+  This short talk is a must watch for software engineers. We as software engineers often write code 
+  with optimization for computers, rather with optimization for humans. However, code readability is 
+  essential for software development. We read code more often than write code, also we need to 
+  understand what the code means before we can write new code. In spite of having clear variable naming, etc. tricks to write readable code, one especially important trick is to try to communicate to 
+  readers of your code why the code is written or structured this way (Since there are infinite ways to write a program). You have to make readers easily understand your mental analysis of the problem, so that code(solution to the problem) is written down this specific way!
+  
+  Finally, quotes in the talk showing bellow are full of wisdom, so I decide to write them down specifically.
+
+  1. If you don't know why your code works, you have no hope of fixing it when it breaks.
+  2. The program is just a suggestion to the computer.
+  3. Code is for communicating ideas with other people
+  4. Code that you do not understand is code that you cannot trust, and code that you cannot trust is code that you do not understand.
+  5. As much as 70% of our time spent coding is actually spent reading the code.
+  6. Code must first be read before it can be written.
+  7. If your code has to be rewritten to be fixed, improved, or extended, you failed.
+  8. Because of that 70% figure, shortcomings in readability compound more quickly over time. Every moment saved in readability compounds more quickly, too.
+  9. Documentation and tests are important, but ultimately they're indirectly related to code quality.
+  10. Readability directly impacts your ability, and that of everyone else, to do their job.
+  11. The one thing we will always be better at than the computer: empathetic communication with other people.
+</details>
+
+
 <div id="2022-02-14"></div>
 
 ##### <a href="#2022-02-14" name="fragment">2022-02-14</a>

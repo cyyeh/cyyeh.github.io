@@ -357,6 +357,10 @@ details li {
   font-size: 18px;
 }
 
+details p > a {
+  word-wrap: break-word;
+}
+
 a[name="fragment"] {
   color: var(--color-primary);
 }
