@@ -1,1 +1,1 @@
-# [Blog](https://cyyeh.github.io/)
+# [Blog](https://cyyeh.netlify.app/)
