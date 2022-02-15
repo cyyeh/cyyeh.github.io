@@ -300,7 +300,10 @@ a:focus {
   margin-right: var(--spacing-4);
   margin-bottom: var(--spacing-0);
   min-width: 50px;
-  border-radius: 50% !important;
+}
+
+.bio-avatar > picture > img {
+  border-radius: 50%;
 }
 
 .blog-post header h1 {
