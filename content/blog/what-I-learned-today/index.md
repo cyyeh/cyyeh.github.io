@@ -80,7 +80,7 @@ This list should be a living document that fulfills my incomplete arguments, and
 
   https://developers.google.com/web/fundamentals/design-and-ux/animations/css-vs-javascript
 
-  This article briefly illustrates some heuristics on whether to use CSS or JavaScript for web animations. In short, CSS uses declarative ways to define animations and it's suitable for easy scenario; while JavaScript uses imperative ways, and it can enable more complex animations.
+  This article briefly illustrates some heuristics on whether to use CSS or JavaScript for web animations. In short, CSS uses declarative ways to define animations and it's suitable for easier scenarios; while JavaScript uses imperative ways, and it can enable more complex animations.
 </details>
 
 <div id="2022-02-14"></div>
