@@ -141,6 +141,7 @@ module.exports = {
         shortname: `learning-in-public`
       }
     },
-    `gatsby-plugin-fontawesome-css`
+    `gatsby-plugin-fontawesome-css`,
+    `gatsby-plugin-netlify-cms`
   ],
 }
