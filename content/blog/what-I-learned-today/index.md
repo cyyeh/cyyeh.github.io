@@ -59,6 +59,13 @@ This list should be a living document that fulfills my incomplete arguments, and
   *Diagram of Chrome’s multi-process architecture. Multiple layers are shown under Renderer Process to represent Chrome running multiple Renderer Processes for each tab*
 </details>
 
+<details>
+  <summary>Inside look at modern web browser (part 2)</summary>
+
+  https://developers.google.com/web/updates/2018/09/inside-browser-part2
+
+  There are 4 parts in the series of [understanding how a modern web browser works](https://twitter.com/addyosmani/status/1492398000500404227?s=20&t=r5KzKDO_TPmaZqBgdrt09g), especially Chrome. This is the second part, which uses the scenario of navigation to illustrate how different processes and threads communicate with each other in order to display a website. In case you have used [Service Worker](https://developers.google.com/web/fundamentals/primers/service-workers) before, you will know it runs inside a renderer process and understand how it fits to the communication mechanism among different processes and threads here.
+</details>
 
 <div id="2022-02-14"></div>
 
