@@ -12,7 +12,7 @@ const BlogPostTemplate = ({ data, location }) => {
   const { previous, next } = data
   const disqusConfig = {
     /* Replace PAGE_URL with your post's canonical URL variable */
-    url: `https://cyyeh.github.io${location.pathname}`,
+    url: `https://cyyeh.netlify.app${location.pathname}`,
     /* Replace PAGE_IDENTIFIER with your page's unique identifier variable */
     identifier: `${post.id}`,
     /* Replace PAGE_TITLE with the title of the page */

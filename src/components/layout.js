@@ -29,7 +29,7 @@ const Layout = ({ location, title, children }) => {
         {` `}
         <a href="https://github.com/cyyeh/cyyeh.github.io/" target="_blank" rel="noreferrer">Gatsby.</a>
         {` `}
-        Subscribe to <a href="https://cyyeh.github.io/rss.xml" target="_blank" rel="noreferrer">the RSS Feed.</a>
+        Subscribe to <a href="https://cyyeh.netlify.app/rss.xml" target="_blank" rel="noreferrer">the RSS Feed.</a>
       </footer>
     </div>
   )

@@ -6,7 +6,7 @@ module.exports = {
       summary: `, an ordinary mind who is always passionately learning from extraordinary minds.`,
     },
     description: `An ordinary mind who is always passionately learning from extraordinary minds.`,
-    siteUrl: `https://cyyeh.github.io/`,
+    siteUrl: `https://cyyeh.netlify.app/`,
     social: {
       linktree: `cyyeh`,
     },
