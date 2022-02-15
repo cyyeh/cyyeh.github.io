@@ -361,6 +361,14 @@ details p > a {
   word-wrap: break-word;
 }
 
+details p > img {
+  width: 100%;
+}
+
+details p em {
+  font-size: 14px;
+}
+
 a[name="fragment"] {
   color: var(--color-primary);
 }
