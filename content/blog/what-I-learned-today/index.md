@@ -75,6 +75,16 @@ This list should be a living document that fulfills my incomplete arguments, and
   This article briefly illustrates some heuristics on whether to choose CSS or JavaScript for web animations. In short, CSS uses declarative ways to define animations and it's suitable for easier scenarios; while JavaScript uses imperative ways, and it can enable more complex animations.
 </details>
 
+<details>
+  <summary>WTF is Jamstack?</summary>
+
+  https://jamstack.wtf/
+
+  Actually the blog you are reading now is built with the Jamstack architecture, and being deployed to Netlify.
+
+  This article is comprehensive, and it gives clear and simple explanations to common questions we may come up in our mind. In brief, Jamstack is a different way to architect web applications, it utilizes [CDNs](https://www.cloudflare.com/learning/cdn/what-is-a-cdn/) to serve web pages, so performance is a lot better. Also you can use 3rd party apis or serverless functions as backend.
+</details>
+
 <div id="2022-02-14"></div>
 
 ##### <a href="#2022-02-14" name="fragment">2022-02-14</a>
