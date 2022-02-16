@@ -30,6 +30,14 @@ This list should be a living document that fulfills my incomplete arguments, and
   This article shares the fundamental concepts applied in most JavaScript engines on how they optimize for object property lookups. Once we understand these concepts, we can write more performant JavaScript programs. Besides learning the optimization tricks, we can learn how JavaScript's object model works!
 </details>
 
+<details>
+  <summary>Web workers vs Service workers vs Worklets</summary>
+
+  https://bitsofco.de/web-workers-vs-service-workers-vs-worklets/
+
+  This article gives a concise introduction to workers that run on other threads in a browser. Usually JavaScript code also runs on a main thread; however, there may be a case that some computation would take longer time, thus it should run on different threads in order to have smoother user experience. In this case, we can use web workers. Service workers and worklets are also web workers, but with specific purposes.
+</details>
+
 <div id="2022-02-15"></div>
 
 ##### <a href="#2022-02-15" name="fragment">2022-02-15</a>
