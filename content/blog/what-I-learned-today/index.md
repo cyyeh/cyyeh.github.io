@@ -18,6 +18,18 @@ This list should be a living document that fulfills my incomplete arguments, and
 
 ...to be continued
 
+<div id="2022-02-16"></div>
+
+##### <a href="#2022-02-16" name="fragment">2022-02-16</a>
+
+<details>
+  <summary>JavaScript engine fundamentals: Shapes and Inline Caches</summary>
+
+  https://mathiasbynens.be/notes/shapes-ics
+
+  This article shares the fundamental concepts applied in most JavaScript engines on how they optimize for object property lookups. Once we understand these concepts, we can write more performant JavaScript programs. Besides learning the optimization tricks, we can learn how JavaScript's object model works!
+</details>
+
 <div id="2022-02-15"></div>
 
 ##### <a href="#2022-02-15" name="fragment">2022-02-15</a>
