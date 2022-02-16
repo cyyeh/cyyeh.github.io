@@ -38,6 +38,14 @@ This list should be a living document that fulfills my incomplete arguments, and
   This article gives a concise introduction to workers that run on other threads in a browser. Usually JavaScript code also runs on a main thread; however, there may be a case that some computation would take longer time, thus it should run on different threads in order to have smoother user experience. In this case, we can use web workers. Service workers and worklets are also web workers, but with specific purposes.
 </details>
 
+<details>
+  <summary>GitHub commits aren't recorded in the 'Your Contributions` calendar</summary>
+
+  https://stackoverflow.com/a/19183663
+
+  I also have this issue for some time. I finally set up my mind to figure out why. The problem was just git user config email on my computer not matching with my GitHub user account's email......
+</details>
+
 <div id="2022-02-15"></div>
 
 ##### <a href="#2022-02-15" name="fragment">2022-02-15</a>
