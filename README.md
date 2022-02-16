@@ -1,1 +1,3 @@
-# [Blog](https://cyyeh.netlify.app/)
+# Personal Blog
+
+![Visualization of the codebase](./diagram.svg)
