@@ -372,6 +372,12 @@ details p em {
   font-size: 14px;
 }
 
+details[open] {
+  border: 2px solid darkgray;
+  border-radius: 5px;
+  padding: 10px;
+}
+
 a[name="fragment"] {
   color: var(--color-primary);
 }
