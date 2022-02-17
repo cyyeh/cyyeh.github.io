@@ -18,6 +18,18 @@ This list should be a living document that fulfills my incomplete arguments, and
 
 ...to be continued
 
+<div id="2022-02-17"></div>
+
+##### <a href="#2022-02-17" name="fragment">2022-02-17</a>
+
+<details>
+  <summary>Monorepo Explained</summary>
+
+  https://monorepo.tools/
+
+  Monorepos become more popular these years in web development. This comprehensive article gives us a simple definition, various feature comparisons among different monorepo tools, and also some resources to learn more about the topic.
+</details>
+
 <div id="2022-02-16"></div>
 
 ##### <a href="#2022-02-16" name="fragment">2022-02-16</a>
