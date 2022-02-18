@@ -30,6 +30,14 @@ This list should be a living document that fulfills my incomplete arguments, and
   Mobile-first is a design method; while mobile-responsive is the ability of the website to adjust itself according to the screen size. With mobile-first, we focus on mobile screens first, and think about what are essential elements that are required to put on the website. You can also find out benefits of using the mobile-first design method and some testing methods in this article!
 </details>
 
+<details>
+  <summary>TypeScript for JavaScript Programmers</summary>
+
+  https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html
+
+  This article teaches the basic concepts in TypeScript. TypeScript adds the type system to JavaScript when developers are developing software. When the software is ready to be built, TypeScript will be "compiled" to JavaScript eventually. For type checking, TypeScript uses the structural type system, which focuses on the shape that values have, sometimes also called "duck typing" or "structured typing".
+</details>
+
 <div id="2022-02-17"></div>
 
 ##### <a href="#2022-02-17" name="fragment">2022-02-17</a>
