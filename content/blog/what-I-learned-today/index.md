@@ -18,6 +18,18 @@ This list should be a living document that fulfills my incomplete arguments, and
 
 ...to be continued
 
+<div id="2022-02-18"></div>
+
+##### <a href="#2022-02-18" name="fragment">2022-02-18</a>
+
+<details>
+  <summary>How to Develop and Test a Mobile-First Design in 2021</summary>
+
+  https://css-tricks.com/how-to-develop-and-test-a-mobile-first-design-in-2021/
+
+  Mobile-first is a design method; while mobile-responsive is the ability of the website to adjust itself according to the screen size. With mobile-first, we focus on mobile screens first, and think about what are essential elements that are required to put on the website. You can also find out benefits of using the mobile-first design method and some testing methods in this article!
+</details>
+
 <div id="2022-02-17"></div>
 
 ##### <a href="#2022-02-17" name="fragment">2022-02-17</a>
