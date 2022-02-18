@@ -350,11 +350,11 @@ section[itemprop="articleBody"] p {
 summary {
   cursor: pointer;
   font-size: 18px;
-  margin-left: 10px;
 }
 
 details {
   margin-bottom: 20px;
+  padding: 10px;
 }
 
 details li {
@@ -376,7 +376,6 @@ details p em {
 details[open] {
   border: 2px solid darkgray;
   border-radius: 5px;
-  padding: 10px;
 }
 
 details[open] > summary {
@@ -391,9 +390,4 @@ a[name="fragment"] {
   details ol {
     padding: 25px;
   }
-}
-
-details:hover {
-  border: 2px solid darkgray;
-  border-radius: 5px;
 }
