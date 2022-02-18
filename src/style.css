@@ -376,6 +376,7 @@ details p em {
 details[open] {
   border: 2px solid darkgray;
   border-radius: 5px;
+  padding: 8px;
 }
 
 details[open] > summary {
