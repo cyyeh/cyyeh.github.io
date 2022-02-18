@@ -350,6 +350,7 @@ section[itemprop="articleBody"] p {
 summary {
   cursor: pointer;
   font-size: 18px;
+  margin-left: 10px;
 }
 
 details {
@@ -378,6 +379,10 @@ details[open] {
   padding: 10px;
 }
 
+details[open] > summary {
+  margin-left: 0px;
+}
+
 a[name="fragment"] {
   color: var(--color-primary);
 }
@@ -386,4 +391,9 @@ a[name="fragment"] {
   details ol {
     padding: 25px;
   }
+}
+
+details:hover {
+  border: 2px solid darkgray;
+  border-radius: 5px;
 }
