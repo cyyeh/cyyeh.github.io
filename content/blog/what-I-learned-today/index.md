@@ -18,6 +18,29 @@ This list should be a living document that fulfills my incomplete arguments, and
 
 ...to be continued
 
+<div id="2022-02-19"></div>
+
+##### <a href="#2022-02-19" name="fragment">2022-02-19</a>
+
+<details>
+  <summary>The mythical 10x programmer</summary>
+
+  http://antirez.com/news/112
+
+  Redis author wrote this article to share what qualities he believes that make the most difference among productive engineers and normal engineers.
+
+1. Bare programming abilities: getting sub-tasks done
+2. Experience: pattern matching
+3. Focus: actual time VS hypothetical time
+4. Design sacrifice: killing 5% to get 90%
+5. Simplicity
+6. Perfectionism, or how to kill your productivity and bias your designs
+7. Knowledge: some theory is going to help
+8. Low level: understanding the machine
+9. Debugging skills
+
+</details>
+
 <div id="2022-02-18"></div>
 
 ##### <a href="#2022-02-18" name="fragment">2022-02-18</a>
