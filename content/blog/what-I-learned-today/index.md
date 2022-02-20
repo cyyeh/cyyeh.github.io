@@ -18,6 +18,18 @@ This list should be a living document that fulfills my incomplete arguments, and
 
 ...to be continued
 
+<div id="2022-02-20"></div>
+
+##### <a href="#2022-02-20" name="fragment">2022-02-20</a>
+
+<details>
+  <summary>Arindam Paul - JavaScript VM internals, EventLoop, Async and ScopeChains</summary>
+
+  https://youtu.be/QyUFheng6J0
+
+  We can learn how variable hoisting, closures, event loop, async work inside JavaScript VM with simple animations here! Also you can checkout [this website](http://latentflip.com/loupe/) that emulates how JavaScript VM works.
+</details>
+
 <div id="2022-02-19"></div>
 
 ##### <a href="#2022-02-19" name="fragment">2022-02-19</a>
