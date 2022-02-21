@@ -42,11 +42,25 @@ This list should be a living document that fulfills my incomplete arguments, and
 </details>
 
 <details>
-  <summary>WHAT WEB CAN DO TODAY?</summary>
+  <summary>What Web Can Do Today?</summary>
 
   https://whatwebcando.today/
 
   If you would like to develop native-like experience web apps(a.k.a [Progressive Web Apps](https://web.dev/progressive-web-apps/)), this website concisely lists out important features you may want to look out! In spite of short answers on whether they are supported as of now, you can also checkout how to use APIs and code snippets in this website.
+</details>
+
+<details>
+  <summary>5 Reasons Why RxJS Observables Are So Powerful</summary>
+
+  https://x-team.com/blog/rxjs-observables/
+
+  [RxJS says that we can think of it as Lodash for events.](https://rxjs.dev/guide/overview) This article gives intuitive and simple examples on when it's suitable for RxJS. These are 5 reasons mentioned in the article that why we should consider using RxJS:
+
+1. An Observable is just the Observer pattern with a jetpack.
+2. The RxJS library is well-known and widely used.
+3. An Observable allows you to handle different asynchronous events, from a single finite operation (like HTTP request) to multiple repeatable actions (like keystrokes or cursor movements). There's a unified API for both.
+4. You can join, mix, transform, and filter different Observables with one API.
+5. RxJS Observables are already used with the most popular frameworks and libraries, such as Angular (where it's built-in) or React/Redux (`redux-observable`).
 </details>
 
 <div id="2022-02-20"></div>
