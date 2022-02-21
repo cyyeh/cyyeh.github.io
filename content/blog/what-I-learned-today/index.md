@@ -18,6 +18,29 @@ This list should be a living document that fulfills my incomplete arguments, and
 
 ...to be continued
 
+<div id="2022-02-21"></div>
+
+##### <a href="#2022-02-21" name="fragment">2022-02-21</a>
+
+<details>
+  <summary>JavaScript - The Tricky Parts</summary>
+
+  https://academind.com/tutorials/javascript-tricky-parts
+
+  This article briefly discusses those tricky parts of JavaScript. You can treat this article as a door to help you dig further into JavaScript. These concepts are listed as follows:
+
+1. Scope & Hoisting
+2. Loops(`for-of`, `for-in`)
+3. Primitive & Reference Values
+4. Closures
+5. Recursion
+6. Callbacks (Indirect vs Direct Function Execution)
+7. Asynchronous Code
+8. The 'this' Keyword
+9. Prototypes
+
+</details>
+
 <div id="2022-02-20"></div>
 
 ##### <a href="#2022-02-20" name="fragment">2022-02-20</a>
@@ -39,7 +62,7 @@ This list should be a living document that fulfills my incomplete arguments, and
 
   http://antirez.com/news/112
 
-  Redis author wrote this article to share what qualities he believes that make the most difference among productive engineers and normal engineers.
+  Author of the famous in-memory database Redis wrote this article to share what qualities he believes that make the most difference among productive engineers and normal engineers.
 
 1. Bare programming abilities: getting sub-tasks done
 2. Experience: pattern matching
