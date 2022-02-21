@@ -41,6 +41,14 @@ This list should be a living document that fulfills my incomplete arguments, and
 
 </details>
 
+<details>
+  <summary>WHAT WEB CAN DO TODAY?</summary>
+
+  https://whatwebcando.today/
+
+  If you would like to develop native-like experience web apps(a.k.a [Progressive Web Apps](https://web.dev/progressive-web-apps/)), this website concisely lists out important features you may want to look out! In spite of short answers on whether they are supported as of now, you can also checkout how to use APIs and code snippets in this website.
+</details>
+
 <div id="2022-02-20"></div>
 
 ##### <a href="#2022-02-20" name="fragment">2022-02-20</a>
