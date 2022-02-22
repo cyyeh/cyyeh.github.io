@@ -63,6 +63,7 @@ This list should be a living document that fulfills my incomplete arguments, and
   - Higher-Order Function
   - Callback
   - Closure
+
 </details>
 
 <div id="2022-02-21"></div>
@@ -109,6 +110,7 @@ This list should be a living document that fulfills my incomplete arguments, and
 3. An Observable allows you to handle different asynchronous events, from a single finite operation (like HTTP request) to multiple repeatable actions (like keystrokes or cursor movements). There's a unified API for both.
 4. You can join, mix, transform, and filter different Observables with one API.
 5. RxJS Observables are already used with the most popular frameworks and libraries, such as Angular (where it's built-in) or React/Redux (`redux-observable`).
+</details>
 
 <div id="2022-02-20"></div>
 
@@ -241,6 +243,8 @@ This list should be a living document that fulfills my incomplete arguments, and
 10. Readability directly impacts your ability, and that of everyone else, to do their job.
 11. The one thing we will always be better at than the computer: empathetic communication with other people.
 
+</details>
+
 <details>
   <summary>Inside look at modern web browser (part 1)</summary>
 
@@ -336,6 +340,8 @@ This list should be a living document that fulfills my incomplete arguments, and
 10. nullish coalescing operator
 11. optional chaining
 12. promises and async/await
+
+</details>
 
 <details>
   <summary>Art of Abstraction</summary>
