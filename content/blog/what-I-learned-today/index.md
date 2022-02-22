@@ -22,6 +22,14 @@ This list should be a living document that fulfills my incomplete arguments, and
 ##### <a href="#2022-02-22" name="fragment">2022-02-22</a>
 
 <details>
+  <summary>Netflix JavaScript Talks - Human Performance</summary>
+
+  https://youtu.be/qouPzSryggk
+
+  This talk is intriguing. [Jem Young](https://twitter.com/JemYoung), a senior software engineer in Netflix, shared three big ideas the Netflix UI Engineering team has regard to ~~engineering~~human performance. In brief, the first idea is sometimes code we didn't write has greater influence on the system; the second idea is we can solve problems with freedom to explore; and the last one is believe in people, not ideas!
+</details>
+
+<details>
   <summary>What Is JavaScript Made Of?</summary>
 
   https://overreacted.io/what-is-javascript-made-of/
