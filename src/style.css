@@ -391,4 +391,16 @@ a[name="fragment"] {
   details ol {
     padding: 25px;
   }
+
+  details ol ol {
+    padding: 0px;
+  }
+
+  details ul {
+    padding: 25px;
+  }
+
+  details ul ul {
+    padding: 0px;
+  }
 }
