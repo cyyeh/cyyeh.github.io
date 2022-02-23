@@ -17,6 +17,18 @@ This list should be a living document that fulfills my incomplete arguments, and
 
 ...to be continued
 
+<div id="2022-02-23"></div>
+
+##### <a href="#2022-02-23" name="fragment">2022-02-23</a>
+
+<details>
+  <summary>Everyone has JavaScript, right?</summary>
+
+  https://kryogenix.org/code/browser/everyonehasjs.html
+
+  This article reminds us that we may need to rethink how available of specific technology might be; and how it might affect users in unexpected ways.
+</details>
+
 <div id="2022-02-22"></div>
 
 ##### <a href="#2022-02-22" name="fragment">2022-02-22</a>
