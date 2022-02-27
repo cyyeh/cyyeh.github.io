@@ -17,6 +17,18 @@ This list should be a living document that fulfills my incomplete arguments, and
 
 ...to be continued
 
+<div id="2022-02-28"></div>
+
+##### <a href="#2022-02-28" name="fragment">2022-02-28</a>
+
+<details>
+  <summary>Web Assembly (WASM) in 100 Seconds</summary>
+
+  https://youtu.be/cbB3QEwWMlA
+
+  Here is short description of [WebAssembly on MDN](https://developer.mozilla.org/en-US/docs/WebAssembly): WebAssembly is a new type of code that can be run in modern web browsers — it is a low-level assembly-like language with a compact binary format that runs with near-native performance and provides languages such as C/C++, C# and Rust with a compilation target so that they can run on the web. It is also designed to run alongside JavaScript, allowing both to work together. We can treat this short video as WebAssembly 101 and learn more from its provided resources first!
+</details>
+
 <div id="2022-02-27"></div>
 
 ##### <a href="#2022-02-27" name="fragment">2022-02-27</a>
