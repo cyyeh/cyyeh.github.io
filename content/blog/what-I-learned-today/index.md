@@ -17,6 +17,18 @@ This list should be a living document that fulfills my incomplete arguments, and
 
 ...to be continued
 
+<div id="2022-02-27"></div>
+
+##### <a href="#2022-02-27" name="fragment">2022-02-27</a>
+
+<details>
+  <summary>The All Powerful Front End Developer - Chris Coyier</summary>
+
+  https://youtu.be/vXJpOHz3_sY
+
+  Front-end developers are more powerful today. Thanks to serverless functions, now we can build server-like functionalities into our web app without really building servers! This trend is also part of characteristics of JAMStack.
+</details>
+
 <div id="2022-02-23"></div>
 
 ##### <a href="#2022-02-23" name="fragment">2022-02-23</a>
