@@ -27,46 +27,46 @@ I believe that achievement really comes from daily practices, and with good dail
 
 ## <a href="#learning-habits" name="fragment">Part Two: Learning Habits</a>
 
-### Habit 1: Look For The Signals
+#### Habit 1: Look For The Signals
 
-### Habit 2: Focus On The Fundamentals
+#### Habit 2: Focus On The Fundamentals
 
-### Habit 3: Teaching Equals Learning
+#### Habit 3: Teaching Equals Learning
 
 <div id="daily-habits"></div>
 
 ## <a href="#daily-habits" name="fragment">Part Three: Daily Habits</a>
 
-### Habit 4: Be Boring
+#### Habit 4: Be Boring
 
-### Habit 5: Do It For Your Future Self
+#### Habit 5: Do It For Your Future Self
 
-### Habit 6: Your 9-to-5 Is Not Enough
+#### Habit 6: Your 9-to-5 Is Not Enough
 
 <div id="career-habits"></div>
 
 ## <a href="#career-habits" name="fragment">Part Four: Career Habits</a>
 
-### Habit 7: Master The Dark Side
+#### Habit 7: Master The Dark Side
 
-### Habit 8: Side Projects
+#### Habit 8: Side Projects
 
-### Habit 9: Mario or Sonic?
+#### Habit 9: Mario or Sonic?
 
 <div id="team-habits"></div>
 
 ## <a href="#team-habits" name="fragment">Part Five: Team Habits</a>
 
-### Habit 10: Active Listening
+#### Habit 10: Active Listening
 
-### Habit 11: Don't Underestimate
+#### Habit 11: Don't Underestimate
 
-### Habit 12: Specialist vs. Generalist
+#### Habit 12: Specialist vs. Generalist
 
 <div id="life-habits"></div>
 
 ## <a href="#life-habits" name="fragment">Part Six: Life Habits</a>
 
-### Habit 13: Control Your Variables
+#### Habit 13: Control Your Variables
 
-### Habit 14: Stop Waiting
+#### Habit 14: Stop Waiting
