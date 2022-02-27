@@ -29,6 +29,14 @@ This list should be a living document that fulfills my incomplete arguments, and
   Front-end developers are more powerful today. Thanks to serverless functions, now we can build server-like functionalities into our web app without really building servers! This trend is also part of characteristics of JAMStack.
 </details>
 
+<details>
+  <summary>Being Glue</summary>
+
+  https://noidea.dog/glue
+
+  This talk is about technical leadership, and especially doing glue work. Glue work is important, and often viewed as an essential ability if you are at a senior role. I think doing glue work is a high leverage activity that makes the team better; however, some companies might not appreciate this "non-promotable" work. You can learn from this talk that how you can allocate glue work more deliberately, frame it usefully and choose a career path you actually want to be in!
+</details>
+
 <div id="2022-02-23"></div>
 
 ##### <a href="#2022-02-23" name="fragment">2022-02-23</a>
