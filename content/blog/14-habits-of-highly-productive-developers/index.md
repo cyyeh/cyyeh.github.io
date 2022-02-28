@@ -34,11 +34,7 @@ I believe that achievement really comes from daily practices, and with good dail
 - Instead, we should practice JOMO (the joy of missing out), which is mostly about being happy and content with what you already know. Give yourself some credit and look back on everything you learned so far. Of course, you shouldn’t be complacent and stop studying new technologies. It would be best if you find some balance between practicing your existing skills and learning new ones.
 - The signal is the meaningful information that you’re actually interested in. The static noise is just the random, unwanted variation that interferes with the signal. That’s why self-awareness is so important, you need to be able to identify what is the signal and what is just noise.
 - It’s crucial to understand that the noise will always be there. You don’t need to necessarily abandon social media, unsubscribe from all newsletters, and stop watching YouTube videos. A digital detox can definitely help for a while; however, it’s not a long term solution. What you need to do is to cherry-pick what is relevant to you at this point in your career.
-
-```
-TODO
-Create a list of all technologies and tools that you would like to learn. Now label each of them with a different priority: “This Week”, “Next Month”, “Next Year”. Whenever you feel like you’re missing out on some new shiny trend, revisit this list and reorganize the priority.
-```
+- **TODO**: Create a list of all technologies and tools that you would like to learn. Now label each of them with a different priority: “This Week”, “Next Month”, “Next Year”. Whenever you feel like you’re missing out on some new shiny trend, revisit this list and reorganize the priority.
 
 #### Habit 2: Focus On The Fundamentals
 
