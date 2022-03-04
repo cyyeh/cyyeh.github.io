@@ -17,6 +17,18 @@ This list should be a living document that fulfills my incomplete arguments, and
 
 ...to be continued
 
+<div id="2022-03-04"></div>
+
+##### <a href="#2022-03-04" name="fragment">2022-03-04</a>
+
+<details>
+  <summary>Advent of Code in Three Languages</summary>
+
+  https://charlesfrye.github.io/programming/2021/12/31/aoc-rust-haskell.html
+
+  This article is about author sharing his experience programming with 3 different programming languages, Python, Rust and Haskell, and what he learned from each of them. Also author also shares his learning experience with solving leetcode-like coding challenges. 
+</details>
+
 <div id="2022-02-28"></div>
 
 ##### <a href="#2022-02-28" name="fragment">2022-02-28</a>
