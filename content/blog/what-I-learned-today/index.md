@@ -17,6 +17,22 @@ This list should be a living document that fulfills my incomplete arguments, and
 
 ...to be continued
 
+<div id="2022-03-05"></div>
+
+##### <a href="#2022-03-05" name="fragment">2022-03-05</a>
+
+<details>
+  <summary>Class Takeaways — Managing Successful Groups and Teams</summary>
+
+  https://youtu.be/FHRYPB8Av-g
+
+  1. Build teams with the end in mind
+  2. Consider diversity and hierarchy
+  3. Go beyond surface-level diversity
+  4. Create space for equal participation
+  5. Balance participation and control
+</details>
+
 <div id="2022-03-04"></div>
 
 ##### <a href="#2022-03-04" name="fragment">2022-03-04</a>
