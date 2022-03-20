@@ -29,6 +29,14 @@ This list should be a living document that fulfills my incomplete arguments, and
   This article reminds us that abstraction is a map that reflects our thinking towards how we think we can solve problems. The map is never perfect, and may change overtime. What's even worse is a wrong abstraction. DRY is a principle developers often adhere to and don't think too much about its legitimacy, thus this article is a good reminder to all of us!
 </details>
 
+<details>
+  <summary>Git Organized: A Better Git Flow</summary>
+
+  https://render.com/blog/git-organized-a-better-git-flow
+
+  This article shares a new approach to help us organize our git flow, especially how to write commit messages pairing with exact files.
+</details>
+
 <div id="2022-03-05"></div>
 
 ##### <a href="#2022-03-05" name="fragment">2022-03-05</a>
