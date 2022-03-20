@@ -17,6 +17,18 @@ This list should be a living document that fulfills my incomplete arguments, and
 
 ...to be continued
 
+<div id="2022-03-20"></div>
+
+##### <a href="#2022-03-20" name="fragment">2022-03-20</a>
+
+<details>
+  <summary>DRY Considered Harmful</summary>
+
+  https://matt-rickard.com/dry-considered-harmful/
+
+  This article reminds us that abstraction is a map that reflects our thinking towards how we think we can solve problems. The map is never perfect, and may change overtime. What's even worse is a wrong abstraction. DRY is a principle developers often adhere to and don't think too much about its legitimacy, thus this article is a good reminder to all of us!
+</details>
+
 <div id="2022-03-05"></div>
 
 ##### <a href="#2022-03-05" name="fragment">2022-03-05</a>
