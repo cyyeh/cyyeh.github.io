@@ -17,6 +17,21 @@ This list should be a living document that fulfills my incomplete arguments, and
 
 ...to be continued
 
+<div id="2022-03-21"></div>
+
+##### <a href="#2022-03-21" name="fragment">2022-03-21</a>
+
+<details>
+  <summary>The New Methodology</summary>
+
+  https://martinfowler.com/articles/newMethodology.html
+
+  Martin Fowler talks about two principles behind agile methods, and also compares them with traditional and more planning-focused methodologies. The two principles behind agile methods are:
+
+1. Agile methods are adaptive rather than predictive.
+2. Agile methods are people-oriented rather than process-oriented.
+</details>
+
 <div id="2022-03-20"></div>
 
 ##### <a href="#2022-03-20" name="fragment">2022-03-20</a>
