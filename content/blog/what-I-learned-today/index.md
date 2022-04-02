@@ -17,6 +17,18 @@ This list should be a living document that fulfills my incomplete arguments, and
 
 ...to be continued
 
+<div id="2022-04-02"></div>
+
+##### <a href="#2022-04-02" name="fragment">2022-04-02</a>
+
+<details>
+  <summary>Symmathesies follow a power law, not a bell curve</summary>
+
+  https://jessitron.com/2021/11/14/symmathesies-follow-a-power-law-not-a-bell-curve/
+
+  Power laws are everywhere. This post however reminds me that results that come from interaction among people also produce power laws! So, of course, software teams are included!
+</details>
+
 <div id="2022-03-21"></div>
 
 ##### <a href="#2022-03-21" name="fragment">2022-03-21</a>
