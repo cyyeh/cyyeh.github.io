@@ -17,6 +17,24 @@ This list should be a living document that fulfills my incomplete arguments, and
 
 ...to be continued
 
+<div id="2022-04-06"></div>
+
+##### <a href="#2022-04-06" name="fragment">2022-04-06</a>
+
+<details>
+  <summary>The Developer’s Edge: How To Become A Senior Developer</summary>
+
+  https://zerotomastery.io/blog/developers-edge-how-to-become-a-senior-developer/
+
+  If you want to become a senior software engineer, this post is for you. The author shares 6 core skills you need and tells you why these skills matter:
+1. technical skills
+2. team skills
+3. client/user skills
+4. growth skills
+5. sales/interview skills
+6. community skills
+</details>
+
 <div id="2022-04-02"></div>
 
 ##### <a href="#2022-04-02" name="fragment">2022-04-02</a>
