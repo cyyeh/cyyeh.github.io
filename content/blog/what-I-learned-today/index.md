@@ -17,6 +17,18 @@ This list should be a living document that fulfills my incomplete arguments, and
 
 ...to be continued
 
+<div id="2022-04-16"></div>
+
+##### <a href="#2022-04-16" name="fragment">2022-04-16</a>
+
+<details>
+  <summary>Deep Neural Nets: 33 years ago and 33 years from now</summary>
+
+  https://karpathy.github.io/2022/03/14/lecun1989/
+
+  In this post, we can understand both at the macro and micro level that how deep  nueral nets have been progressing since last 33 years. Also the author also makes some predictions for the future based on the current state-of-the-art deep neural nets.
+</details>
+
 <div id="2022-04-06"></div>
 
 ##### <a href="#2022-04-06" name="fragment">2022-04-06</a>
