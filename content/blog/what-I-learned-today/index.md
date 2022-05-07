@@ -27,11 +27,13 @@ This list should be a living document that fulfills my incomplete arguments, and
   https://youtu.be/5tKaMoUc48c
 
   This talk shares with us how OpenAI people do research. Five lessons are as follows:
+
 1. hypotheses over tasks
 2. metrics
 3. tooling
 4. build the map
 5. nurture creativity
+
 </details>
 
 <div id="2022-04-16"></div>
@@ -65,6 +67,8 @@ This list should be a living document that fulfills my incomplete arguments, and
 5. sales/interview skills
 6. community skills
 
+</details>
+
 <div id="2022-04-02"></div>
 
 ##### <a href="#2022-04-02" name="fragment">2022-04-02</a>
@@ -91,6 +95,8 @@ This list should be a living document that fulfills my incomplete arguments, and
 
 1. Agile methods are adaptive rather than predictive.
 2. Agile methods are people-oriented rather than process-oriented.
+
+</details>
 
 <div id="2022-03-20"></div>
 
@@ -128,6 +134,8 @@ This list should be a living document that fulfills my incomplete arguments, and
 3. Go beyond surface-level diversity
 4. Create space for equal participation
 5. Balance participation and control
+
+</details>
 
 <div id="2022-03-04"></div>
 
@@ -297,6 +305,8 @@ This list should be a living document that fulfills my incomplete arguments, and
 3. An Observable allows you to handle different asynchronous events, from a single finite operation (like HTTP request) to multiple repeatable actions (like keystrokes or cursor movements). There's a unified API for both.
 4. You can join, mix, transform, and filter different Observables with one API.
 5. RxJS Observables are already used with the most popular frameworks and libraries, such as Angular (where it's built-in) or React/Redux (`redux-observable`).
+
+</details>
 
 <div id="2022-02-20"></div>
 
