@@ -17,6 +17,23 @@ This list should be a living document that fulfills my incomplete arguments, and
 
 ...to be continued
 
+<div id="2022-05-08"></div>
+
+##### <a href="#2022-05-08" name="fragment">2022-05-08</a>
+
+<details>
+  <summary>Five Lessons for Team-Oriented Research with Peter Welder</summary>
+
+  https://youtu.be/5tKaMoUc48c
+
+  This talk shares with us how OpenAI people do research. Five lessons are as follows:
+1. hypotheses over tasks
+2. metrics
+3. tooling
+4. build the map
+5. nurture creativity
+</details>
+
 <div id="2022-04-16"></div>
 
 ##### <a href="#2022-04-16" name="fragment">2022-04-16</a>
@@ -27,6 +44,7 @@ This list should be a living document that fulfills my incomplete arguments, and
   https://karpathy.github.io/2022/03/14/lecun1989/
 
   In this post, we can understand both at the macro and micro level that how deep  nueral nets have been progressing since last 33 years. Also the author also makes some predictions for the future based on the current state-of-the-art deep neural nets.
+
 </details>
 
 <div id="2022-04-06"></div>
@@ -39,13 +57,13 @@ This list should be a living document that fulfills my incomplete arguments, and
   https://zerotomastery.io/blog/developers-edge-how-to-become-a-senior-developer/
 
   If you want to become a senior software engineer, this post is for you. The author shares 6 core skills you need and tells you why these skills matter:
+
 1. technical skills
 2. team skills
 3. client/user skills
 4. growth skills
 5. sales/interview skills
 6. community skills
-</details>
 
 <div id="2022-04-02"></div>
 
@@ -57,6 +75,7 @@ This list should be a living document that fulfills my incomplete arguments, and
   https://jessitron.com/2021/11/14/symmathesies-follow-a-power-law-not-a-bell-curve/
 
   Power laws are everywhere. This post however reminds me that results that come from interaction among people also produce power laws! So, of course, software teams are included!
+
 </details>
 
 <div id="2022-03-21"></div>
@@ -72,7 +91,6 @@ This list should be a living document that fulfills my incomplete arguments, and
 
 1. Agile methods are adaptive rather than predictive.
 2. Agile methods are people-oriented rather than process-oriented.
-</details>
 
 <div id="2022-03-20"></div>
 
@@ -84,6 +102,7 @@ This list should be a living document that fulfills my incomplete arguments, and
   https://matt-rickard.com/dry-considered-harmful/
 
   This article reminds us that abstraction is a map that reflects our thinking towards how we think we can solve problems. The map is never perfect, and may change overtime. What's even worse is a wrong abstraction. DRY is a principle developers often adhere to and don't think too much about its legitimacy, thus this article is a good reminder to all of us!
+
 </details>
 
 <details>
@@ -92,6 +111,7 @@ This list should be a living document that fulfills my incomplete arguments, and
   https://render.com/blog/git-organized-a-better-git-flow
 
   This article shares a new approach to help us organize our git flow, especially how to write commit messages pairing with exact files.
+
 </details>
 
 <div id="2022-03-05"></div>
@@ -103,12 +123,11 @@ This list should be a living document that fulfills my incomplete arguments, and
 
   https://youtu.be/FHRYPB8Av-g
 
-  1. Build teams with the end in mind
-  2. Consider diversity and hierarchy
-  3. Go beyond surface-level diversity
-  4. Create space for equal participation
-  5. Balance participation and control
-</details>
+1. Build teams with the end in mind
+2. Consider diversity and hierarchy
+3. Go beyond surface-level diversity
+4. Create space for equal participation
+5. Balance participation and control
 
 <div id="2022-03-04"></div>
 
@@ -120,6 +139,7 @@ This list should be a living document that fulfills my incomplete arguments, and
   https://charlesfrye.github.io/programming/2021/12/31/aoc-rust-haskell.html
 
   This article is about author sharing his experience programming with 3 different programming languages, Python, Rust and Haskell, and what he learned from each of them. Also author also shares his learning experience with solving leetcode-like coding challenges. 
+
 </details>
 
 <div id="2022-02-28"></div>
@@ -132,6 +152,7 @@ This list should be a living document that fulfills my incomplete arguments, and
   https://youtu.be/cbB3QEwWMlA
 
   Here is short description of [WebAssembly on MDN](https://developer.mozilla.org/en-US/docs/WebAssembly): WebAssembly is a new type of code that can be run in modern web browsers — it is a low-level assembly-like language with a compact binary format that runs with near-native performance and provides languages such as C/C++, C# and Rust with a compilation target so that they can run on the web. It is also designed to run alongside JavaScript, allowing both to work together. We can treat this short video as WebAssembly 101 and learn more from its provided resources first!
+
 </details>
 
 <div id="2022-02-27"></div>
@@ -144,6 +165,7 @@ This list should be a living document that fulfills my incomplete arguments, and
   https://youtu.be/vXJpOHz3_sY
 
   Front-end developers are more powerful today. Thanks to serverless functions, now we can build server-like functionalities into our web app without really building servers! This trend is also part of characteristics of JAMStack.
+
 </details>
 
 <details>
@@ -152,6 +174,7 @@ This list should be a living document that fulfills my incomplete arguments, and
   https://noidea.dog/glue
 
   This talk is about technical leadership, and especially doing glue work. Glue work is important, and often viewed as an essential ability if you are at a senior role. I think doing glue work is a high leverage activity that makes the team better; however, some companies might not appreciate this "non-promotable" work. You can learn from this talk that how you can allocate glue work more deliberately, frame it usefully and choose a career path you actually want to be in!
+
 </details>
 
 <div id="2022-02-23"></div>
@@ -164,6 +187,7 @@ This list should be a living document that fulfills my incomplete arguments, and
   https://kryogenix.org/code/browser/everyonehasjs.html
 
   This article reminds us that we may need to rethink how available of specific technology might be; and how it might affect users in unexpected ways.
+
 </details>
 
 <div id="2022-02-22"></div>
@@ -176,6 +200,7 @@ This list should be a living document that fulfills my incomplete arguments, and
   https://youtu.be/qouPzSryggk
 
   This talk is intriguing. [Jem Young](https://twitter.com/JemYoung), a senior software engineer in Netflix, shared three big ideas the Netflix UI Engineering team has regard to ~~engineering~~human performance. In brief, the first idea is sometimes code we didn't write has greater influence on the system; the second idea is we can solve problems with freedom to explore; and the last one is believe in people, not ideas!
+
 </details>
 
 <details>
@@ -185,41 +210,46 @@ This list should be a living document that fulfills my incomplete arguments, and
 
   We can treat this article as a mental model checklist for understanding JavaScript. Concepts explained in the article is listed below for your reference. However, it's just a mental modal, which gives a way of understanding something better; so it may not explain things 100% correct. For example, a function in JavaScript is actually also a kind of object, but you can't get this truth from this article.
 
-- Value
-  - Type of Value
-  - Primitive Values
-  - `null` and `undefined`
-- Equality
-  - Strict Equality
-  - Referential Equality
-  - Loose Equality
-- Literal
-- Variable
-  - Scope
-  - Assignment
-  - `let` vs `const` vs `var`
-- Object
-  - Property
-  - Object Literal
-  - Object Identity
-  - Dot Notation
-  - Bracket Notation
-  - Mutation
-  - Array
-  - Prototype
-- Function
-  - Arguments(or Parameters)
-  - Function Expression
-  - Function Declaration
-  - Function Hoisting
-  - `this`
-  - Arrow Functions
-  - Function Binding
-  - Call Stack
-  - Recursion
-  - Higher-Order Function
-  - Callback
-  - Closure
+* Value
+
+  * Type of Value
+  * Primitive Values
+  * `null` and `undefined`
+* Equality
+
+  * Strict Equality
+  * Referential Equality
+  * Loose Equality
+* Literal
+* Variable
+
+  * Scope
+  * Assignment
+  * `let` vs `const` vs `var`
+* Object
+
+  * Property
+  * Object Literal
+  * Object Identity
+  * Dot Notation
+  * Bracket Notation
+  * Mutation
+  * Array
+  * Prototype
+* Function
+
+  * Arguments(or Parameters)
+  * Function Expression
+  * Function Declaration
+  * Function Hoisting
+  * `this`
+  * Arrow Functions
+  * Function Binding
+  * Call Stack
+  * Recursion
+  * Higher-Order Function
+  * Callback
+  * Closure
 
 </details>
 
@@ -267,7 +297,6 @@ This list should be a living document that fulfills my incomplete arguments, and
 3. An Observable allows you to handle different asynchronous events, from a single finite operation (like HTTP request) to multiple repeatable actions (like keystrokes or cursor movements). There's a unified API for both.
 4. You can join, mix, transform, and filter different Observables with one API.
 5. RxJS Observables are already used with the most popular frameworks and libraries, such as Angular (where it's built-in) or React/Redux (`redux-observable`).
-</details>
 
 <div id="2022-02-20"></div>
 
