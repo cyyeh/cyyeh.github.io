@@ -17,6 +17,18 @@ This list should be a living document that fulfills my incomplete arguments, and
 
 ...to be continued
 
+<div id="2022-08-23"></div>
+
+##### <a href="#2022-08-23" name="fragment">2022-08-23</a>
+
+<details>
+  <summary>TDD, where dit it all go wrong?</summary>
+
+  https://youtu.be/EZ05e7EMOLM
+
+  In this talk, the speaker leads us to the origin of TDD, which was raised by Kent Beck, and gives us new directions to write real "TDD-style" tests! In simple words, test behaviors not implementation details!
+</details>
+
 <div id="2022-05-08"></div>
 
 ##### <a href="#2022-05-08" name="fragment">2022-05-08</a>
