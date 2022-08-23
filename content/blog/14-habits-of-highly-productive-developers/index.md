@@ -4,7 +4,7 @@ date: 2022-02-27T06:08:27.298Z
 description: This reading notes includes tips by top developers from Google,
   Microsoft, Spotify, Amazon, and more.
 pin: false
-draft: false
+draft: true
 ---
 To be continued...
 
