@@ -12,3 +12,4 @@ draft: false
 - [Stanford CS547 - Human-Computer Interaction Seminar](https://www.youtube.com/playlist?list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD)
 - [Stanford EE380 - Colloquium on Computer Systems](https://www.youtube.com/playlist?list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu)
 - [Stanford MLSys Seminars](https://www.youtube.com/c/StanfordMLSysSeminars)
+- [MIT Fast Code Seminar](http://fast-code.csail.mit.edu)
