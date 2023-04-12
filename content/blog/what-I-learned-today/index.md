@@ -1,11 +1,11 @@
 ---
 title: What I learned today
-date: 2022-02-13
+date: 2023-04-12T23:12:10.431Z
 description: A living list recording what I learn everyday!
 pin: true
 draft: false
 ---
-## What this post is about?
+## What is this post about?
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/JIceCvZS-4Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
