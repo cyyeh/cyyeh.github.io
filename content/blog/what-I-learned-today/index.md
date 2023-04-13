@@ -16,3 +16,46 @@ This list should be a living document that fulfills my incomplete arguments, and
 ## The list
 
 ...to be continued
+
+<div id="2023-04-13"></div>
+
+##### <a href="#2023-04-13" name="fragment">2023-04-13</a>
+
+<details>
+  <summary>Marty Cagan - The Nature of Product</summary>
+
+https://youtu.be/T3VRz18ntjQ
+
+Abstract
+
+During this keynote talk I'll be calling out some of the most important and deeply rooted misconceptions about how great products are created.
+
+We'll be discussing the difference between an idea and a product; the difference between implementing features and solving problems for our customers in ways that work for our business; the difference between product owners and true product managers; the difference between product teams and feature teams; the difference between scaling with process and scaling with leadership; and more generally, the differences between how the best product companies in the world work, and how the rest work. Finally, we'll be talking about what's involved in truly changing how you work from the rest to the best.
+
+K﻿ey Takeaways
+
+* You need to solve a problem nobody has solved before
+  * Most companies are working on old problems
+*﻿ You need to spend as much time as possible understanding "the problem space"
+ ﻿ * Ben Horowitz: The primary thing that any technology startup must do is build a product that's at least 10 times better at doing something than the current prevailing way of doing that thing
+*﻿ You need to be an expert in the domain
+ ﻿ * Shreyas Doshi: True domain expertise is domain knowledge minus domain dogma
+*﻿ You need to listen to your customers
+ ﻿ * Jeff Bezos: No customer ever asked Amazon to create the Prime Membership program
+*﻿ You need to commit to your solution, and iterate until success
+ ﻿ * Kaaren Hanson: Fall in love with the problem, not the solution
+*﻿ You need product owners
+ ﻿ * Marty Cagan: A product owner is simply a role in a delivery process. A product manager is responsible for a product's value and viability
+  * Designers -> usability
+ ﻿ * Engineers -> feasibility
+ ﻿ * Product Managers -> value and viability
+*﻿ You need to come up with innovative product ideas
+ ﻿ * Steve Jobs: The disease of thinking that an idea is 90% of the work
+*﻿ You need your engineers to focus on coding
+ ﻿ * Steve Jobs: We don't hire all these engineers to tell them what to do; we hire them to show us what's possible
+*﻿ You need to focus on creating a product your customers love
+ ﻿ * Martina Lauchengco: One of the biggest mistakes I see companies make is not thinking about both the product and the market side of product/market fit
+*﻿ You need process people to grow your company
+ ﻿ * Elon Musk: The problem is that a lot of big companies, process becomes a substitute for thinking
+
+</details>
