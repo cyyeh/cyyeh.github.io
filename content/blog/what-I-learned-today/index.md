@@ -34,28 +34,38 @@ We'll be discussing the difference between an idea and a product; the difference
 
 K﻿ey Takeaways
 
-* You need to solve a problem nobody has solved before
-  * Most companies are working on old problems
-*﻿ You need to spend as much time as possible understanding "the problem space"
- ﻿ * Ben Horowitz: The primary thing that any technology startup must do is build a product that's at least 10 times better at doing something than the current prevailing way of doing that thing
-*﻿ You need to be an expert in the domain
- ﻿ * Shreyas Doshi: True domain expertise is domain knowledge minus domain dogma
-*﻿ You need to listen to your customers
- ﻿ * Jeff Bezos: No customer ever asked Amazon to create the Prime Membership program
-*﻿ You need to commit to your solution, and iterate until success
- ﻿ * Kaaren Hanson: Fall in love with the problem, not the solution
-*﻿ You need product owners
- ﻿ * Marty Cagan: A product owner is simply a role in a delivery process. A product manager is responsible for a product's value and viability
-  * Designers -> usability
- ﻿ * Engineers -> feasibility
- ﻿ * Product Managers -> value and viability
-*﻿ You need to come up with innovative product ideas
- ﻿ * Steve Jobs: The disease of thinking that an idea is 90% of the work
-*﻿ You need your engineers to focus on coding
- ﻿ * Steve Jobs: We don't hire all these engineers to tell them what to do; we hire them to show us what's possible
-*﻿ You need to focus on creating a product your customers love
- ﻿ * Martina Lauchengco: One of the biggest mistakes I see companies make is not thinking about both the product and the market side of product/market fit
-*﻿ You need process people to grow your company
- ﻿ * Elon Musk: The problem is that a lot of big companies, process becomes a substitute for thinking
+1. You need to solve a problem nobody has solved before
+    * Most companies are working on old problems
+
+2. You need to spend as much time as possible understanding "the problem space"
+    * Ben Horowitz: The primary thing that any technology startup must do is build a product that's at least 10 times better at doing something than the current prevailing way of doing that thing
+
+3. You need to be an expert in the domain
+    * Shreyas Doshi: True domain expertise is domain knowledge minus domain dogma
+
+4. You need to listen to your customers
+    * Jeff Bezos: No customer ever asked Amazon to create the Prime Membership program
+
+5. You need to commit to your solution, and iterate until success
+    * Kaaren Hanson: Fall in love with the problem, not the solution
+
+6. You need product owners
+    * Marty Cagan: A product owner is simply a role in a delivery process. A product manager is responsible for a product's value and viability
+    * Designers -> usability
+    * Engineers -> feasibility
+    * Product Managers -> value and viability
+
+7. You need to come up with innovative product ideas
+    * Steve Jobs: The disease of thinking that an idea is 90% of the work
+
+8. You need your engineers to focus on coding
+    * Steve Jobs: We don't hire all these engineers to tell them what to do; we hire them to show us what's possible
+
+9. You need to focus on creating a product your customers love
+    * Martina Lauchengco: One of the biggest mistakes I see companies make is not thinking about both the product and the market side of product/market fit
+
+10. You need process people to grow your company
+    * Elon Musk: The problem is that a lot of big companies, process becomes a substitute for thinking
+
 
 </details>
